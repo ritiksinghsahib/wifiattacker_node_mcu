@@ -1,2 +1,2 @@
 # wifiattacker_node_mcu
-# this project is designed for testing of ml based wifo cloning
+# this project is designed for testing of ml based wifi network attacks
